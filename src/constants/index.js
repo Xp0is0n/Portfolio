@@ -138,7 +138,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Ankit proved me wrong.",
+      "Our website developer has been instrumental in transforming our online presence. His expertise and dedication have elevated our brand to new heights.",
     name: "Dinesh Raywade",
     designation: "CEO",
     company: "Config Server LLP",
@@ -147,27 +147,27 @@ const testimonials = [
 ];
 
 const projects = [
-  {
-    name: "Company Website",
-    description:
-      "Made a website using react, nodeJS and MongoDB for Software Development Company with Admin panel From which you can change every data that you can see on home page.",
-    tags: [
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "mongodb",
-        color: "green-text-gradient",
-      },
-      {
-        name: "tailwind",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: carrent,
-    source_code_link: "https://configserverllp.com",
-  },
+  // {
+  //   name: "Company Website",
+  //   description:
+  //     "Made a website using react, nodeJS and MongoDB for Software Development Company with Admin panel From which you can change every data that you can see on home page.",
+  //   tags: [
+  //     {
+  //       name: "react",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "mongodb",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "tailwind",
+  //       color: "pink-text-gradient",
+  //     },
+  //   ],
+  //   image: carrent,
+  //   source_code_link: "https://configserverllp.com",
+  // },
   {
     name: "E-Commerce Website",
     description:
